@@ -23,7 +23,7 @@ Team Members:
 ![Kaggle](https://img.shields.io/badge/Kaggle-Competition-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-## 📌 Overview
+## Overview
 
 This repository contains the code, methodology, and final report for our project  
 **“Impressionist Imagery with CycleGAN: Unpaired Image Translation for Monet-Style Generation,”**  
@@ -35,7 +35,7 @@ This repository serves as a **research archive**: the complete code and report a
 
 ---
 
-## 🧠 Method Summary
+## Method Summary
 
 We implemented and iteratively improved a CycleGAN-based system for artistic style transfer.  
 Three primary versions were built:
@@ -57,21 +57,21 @@ Three primary versions were built:
 
 ---
 
-## 🖼️ Architecture
+## Architecture
 
 > **Add architecture diagram here**  
 > *(insert image)*
 
 ---
 
-## 🏞️ Sample Outputs
+## Sample Outputs
 
 > **Add input → Monet output image grids here**  
 > *(insert images)*
 
 ---
 
-## ⚠️ Reproducibility Notes
+## Reproducibility Notes
 
 - Trained model weights **are not available**  
 - ≈7000 generated images for Kaggle submission are **not included**  
@@ -80,7 +80,7 @@ Three primary versions were built:
 
 ---
 
-## 👥 Team Members
+## Team Members
 
 - **Bhadri Prabhav Kuruganti**
 - **Indra Anuraag Gade** 
@@ -88,7 +88,7 @@ Three primary versions were built:
 
 ---
 
-## 📄 License
+## License
 
 Released under the **MIT License** for research and educational use.
 
