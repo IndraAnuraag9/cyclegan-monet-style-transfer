@@ -62,9 +62,3 @@ Three primary versions were built:
 - **Rohit Reddy Bheemireddy** 
 
 ---
-
-## License
-
-Released under the **MIT License** for research and educational use.
-
----
