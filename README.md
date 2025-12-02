@@ -3,9 +3,7 @@
 
 ## Overview
 
-This repository contains the code, methodology, and final report for our project  
-**“Impressionist Imagery with CycleGAN: Unpaired Image Translation for Monet-Style Generation,”**  
-completed for **GMU CS 747 — Deep Learning — Fall 2024**.
+This repository contains the code, methodology, and final report for our project **“Impressionist Imagery with CycleGAN: Unpaired Image Translation for Monet-Style Generation,”** completed for **GMU CS 747 — Deep Learning — Fall 2024**.
 
 The goal of the project is to generate **Monet-inspired Impressionist images** from real photographs using **CycleGAN**, trained on unpaired datasets of Monet paintings and natural images.
 
