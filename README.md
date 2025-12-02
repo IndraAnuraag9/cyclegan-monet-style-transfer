@@ -42,17 +42,6 @@ Three primary versions were built:
 ---
 
 ## Sample Outputs
-
-> **V1**  
-> <img width="465" height="247" alt="image" src="https://github.com/user-attachments/assets/49167f61-13e2-44ee-b072-bfba23723ef9" />
-
-> **V2**  
-> <img width="460" height="227" alt="image" src="https://github.com/user-attachments/assets/202d5f03-93f7-4923-9963-59ed3936d0d5" />
-
-> **V3**  
-> <img width="459" height="225" alt="image" src="https://github.com/user-attachments/assets/a4ed7b36-7464-4d8c-849b-2d7b33e29e06" />
-
-> **More Monet Style Generated Images**
 > <img width="451" height="421" alt="image" src="https://github.com/user-attachments/assets/64b208e2-5da2-429d-a5e1-711940d599e3" />
 
 ---
